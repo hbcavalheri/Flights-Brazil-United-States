@@ -6,5 +6,5 @@ Map1: ggplot. Shape file from: http://www.naturalearthdata.com/downloads/10m-cul
 
 Map2: Plotly (only flights to United States). Link to map: http://rpubs.com/hbcavalheri/375627
 
-Map3: Leaflet. Link to map: http://rpubs.com/hbcavalheri/375629
+Map3: Leaflet. Link to map: http://rpubs.com/hbcavalheri/375629 and Tile: NASAGIBS.ViirsEarthAtNight2012
 
